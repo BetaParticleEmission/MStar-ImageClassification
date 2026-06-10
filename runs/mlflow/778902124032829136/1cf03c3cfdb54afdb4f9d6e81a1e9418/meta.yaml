@@ -1,0 +1,14 @@
+artifact_uri: file:c:/Users/isaac/Documents/GitHub/MStar-ImageClassification/runs/mlflow/778902124032829136/1cf03c3cfdb54afdb4f9d6e81a1e9418/artifacts
+end_time: 1781106220553
+entry_point_name: ''
+experiment_id: '778902124032829136'
+lifecycle_stage: active
+run_id: 1cf03c3cfdb54afdb4f9d6e81a1e9418
+run_name: train-2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1781104528868
+status: 3
+tags: []
+user_id: isaac
