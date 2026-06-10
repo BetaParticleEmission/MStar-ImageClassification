@@ -1,3 +1,9 @@
 # Train/val sets 
 
-path: 
+path: C:\Users\isaac\Documents\GitHub\MStar-ImageClassification\mstar_yolo
+
+train: train
+val: test 
+
+nc: 7
+classes: ["2S1","BRDM_2", "D7", "SLICY", "T62", "ZIL131", "ZSU_23_4"]
